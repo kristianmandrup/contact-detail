@@ -1,4 +1,7 @@
 {
+  "bundles": [
+    "foundation"
+  ],
   "dependencies": [
     "jquery",
     {
@@ -11,5 +14,8 @@
         "css/bootstrap.css"
       ]
     }
+  ],
+  "typings": [
+    "nprogress"
   ]
 }
