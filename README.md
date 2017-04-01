@@ -1,5 +1,7 @@
 # Contact Details
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/contact-detail.svg)](https://greenkeeper.io/)
+
 Aurelia component with Contact details
 
 ## Install
